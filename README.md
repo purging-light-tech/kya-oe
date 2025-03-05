@@ -3,5 +3,5 @@ This is the main repository for the development of the Kya Operating Environment
 
 ## Goals
 - To create a modern operating enviroment for use in PCs and Servers.
-- Build a communtiy that accepts opinions of the contributers and users openly.
+- Build a community that accepts opinions of the contributers and users openly.
 - All assets within the main system shall be released with a liberal open source license (MIT or BSD are currently accepted)
